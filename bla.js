@@ -7,6 +7,6 @@ for (var i = 0; i < 10; i++) {
 };
 
 
-function(a, b, c) {
+var fn = function(a, b, c) {
   return a + b + d;
-}
+};
